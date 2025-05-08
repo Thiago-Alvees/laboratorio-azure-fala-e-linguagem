@@ -1,0 +1,32 @@
+# 📝 Anotações do Laboratório: Azure Speech & Language Studio
+
+---
+
+## 1. Configuração Inicial
+
+- Criado recurso de "Speech Services" no Azure
+- Configurado com região Leste dos EUA e plano gratuito
+- Speech Studio acessado via [speech.microsoft.com](https://speech.microsoft.com)
+
+## 2. Speech Studio - Reconhecimento de Fala
+
+- Upload de arquivos `.wav`
+- Testes com sotaques e ruídos
+- Resultados exportados para JSON
+
+## 3. Language Studio - Compreensão de Linguagem
+
+- Uso do "Conversational Language Understanding"
+- Criação de modelo com Intents e Entities
+- Treinamento e Testes com frases naturais
+
+## 4. Integração
+
+- Utilização opcional da API Speech SDK com Python
+- Envio de áudios via script e visualização dos transcripts
+
+## Observações:
+
+- Speech Studio fornece resultados rápidos, ideal para prototipação
+- Language Studio exige curadoria dos exemplos de intenção
+
