@@ -1,0 +1,26 @@
+# 💡 Insights da Prática
+
+---
+
+## Pontos Fortes
+
+- Interface intuitiva no Speech Studio
+- Treinamento de linguagem personalizável
+- Boa integração com outros serviços da Azure
+
+## Possibilidades de Aplicação
+
+- Atendimento automatizado com transcrição em tempo real
+- Chatbots mais inteligentes com compreensão de intenção
+- Inclusão digital por meio de acessibilidade por voz
+
+## Dificuldades Enfrentadas
+
+- Limites da conta gratuita (tempo de áudio e número de requests)
+- Exige atenção à criação de bons exemplos de treino no Language Studio
+
+## Melhorias Futuras
+
+- Automatizar testes com scripts
+- Explorar a integração com serviços de tradução e análise de sentimento
+
